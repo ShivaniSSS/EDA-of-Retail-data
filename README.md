@@ -7,3 +7,4 @@ Also, a notebook has been attached involving step by step EDA.
 
 For preview, a pdf file is attached, but to get the interactive dashboard, download the .pbix file and open in Power BI desktop/service along with the data.
 
+Presentation: https://youtu.be/wdbkETTHXNY
