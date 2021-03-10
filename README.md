@@ -5,8 +5,8 @@ Power BI has been used to create the report and dashboard. It is a business anal
 
 Also, a notebook has been attached involving step by step EDA.
 
-For preview, a pdf file is attached, but to get the interactive dashboard, download the .pbix file and open in Power BI desktop/service along with the data.
+For preview, a pdf file is attached, but to get the interactive dashboard, download the .pbix file and open in Power BI desktop/service along with the data or just use the link below.
 
-Link: https://bit.ly/30Ihw1L
+Link to the dashboards: https://bit.ly/30Ihw1L
 
 Presentation: https://youtu.be/wdbkETTHXNY
